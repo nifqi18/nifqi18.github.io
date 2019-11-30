@@ -8,4 +8,3 @@ Sistem Informasi Desa Kami memiliki feature unggulan berupa layanan surat yang m
 Kebutuhan yang ada di desa masing - masing ,, dengan feature ini ,, pelayanan akan semakin mudah dan cepat 
 dalam pembuatan surat sehari hari .. 
 
-
