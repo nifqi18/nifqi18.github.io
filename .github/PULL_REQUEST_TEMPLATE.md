@@ -1,15 +1,26 @@
-Thanks for the contribution! **Below** is a template that can make it easier when submitting your Organization:
+<!--
+  Thanks for creating a Pull Request! Before you submit, please make sure
+  you've done the following:
 
-**Your Organization**: _ACME Agency_  
-**GitHub Organization url**: _@acmeagency_  
-**Country/Locality**: _Alberta, Canada_
+  - Read the contributing document at https://github.com/mmistakes/minimal-mistakes#contributing
+-->
 
-Inclusion requirements:
-- [ ] Referenced account is an [Organization](https://github.com/github/government.github.com#add-organization) not a User^
-- [ ] If this is a government project, your Organization's description should include a reference to your country/agency.
-- [ ] Make sure your Organization includes at least one public repository
-- [ ] Please also include a URL for your organization that links back to your organization or agency homepage.
- 
-^ If you want to convert your account to an org, details can be found here: https://help.github.com/articles/converting-a-user-into-an-organization/
-  
- :heart: GitHub Government Contributors
+<!--
+  Choose one of the following by uncommenting it:
+-->
+
+<!-- This is a bug fix. -->
+<!-- This is an enhancement or feature. -->
+<!-- This is a documentation change. -->
+
+## Summary
+
+<!--
+  Provide a description of what your pull request changes.
+-->
+
+## Context
+
+<!--
+  Is this related to any GitHub issue(s)?
+-->
